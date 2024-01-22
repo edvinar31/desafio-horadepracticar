@@ -2,3 +2,22 @@ alert("Bienvenida y bienvenidos a mi sitio web");
 
 let nombre = "Luna";
 
+let edad = 25;
+
+let numeroDeVentas = 50;
+
+let saldoDisponible = 2000;
+
+alert("¡Error! Completa todos los campos");
+
+let mensajeDeError = "¡Error! Completa todos los compos";
+alert(mensajeDeErro);
+
+let nombreDeUsuario = prompt("Escriba su nombre");
+
+tet edad = prompt("Digite su edad");
+
+if (edad >= 18){
+alert("¡Puedes obtener tu licencia!");
+}
+
